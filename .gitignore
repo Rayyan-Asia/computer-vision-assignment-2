@@ -1,0 +1,14 @@
+# Lecture slides (not tracked)
+3_local_features_alignment.pdf
+
+# Solved notebook (not tracked)
+Assignment_2_solved.ipynb
+
+# Virtual environment
+venv/
+.venv/
+
+# Python / Jupyter / OS
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
